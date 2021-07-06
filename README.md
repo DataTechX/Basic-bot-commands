@@ -1,3 +1,4 @@
 #HOW TO INSTAll MODULE
 
-```agwegfwae```
+```1. git clone
+```
